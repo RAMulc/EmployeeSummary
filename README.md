@@ -12,7 +12,7 @@ Template Engine - Employee Summary
 <br>
 ---------------
 
-**<u>Links:</u>**
+## Links
 
 [Demo Video:](https://github.com/RAMulc/EmployeeSummary/blob/main/demo/DemoVideo.webm)
 
@@ -22,7 +22,7 @@ Template Engine - Employee Summary
 
 
 
-**<u>Description:</u>**
+## Description
 
 
 
@@ -38,13 +38,13 @@ Below is an example of the output html file.
 
 
 
-<u>**Installation:**</u>
+## Installation
 
 Run npm install to install Inquirer package.
 
 
 
-**<u>Usage:</u>**
+## Usage
 
 - Run 'node app.js' at the command line to start the program. 
 - Follow the on screen prompts to answer all the questions.
