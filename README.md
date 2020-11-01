@@ -1,7 +1,16 @@
 # Employee Summary
 Template Engine - Employee Summary
 
-
+---------------
+[Links](#Links)
+<br>
+[Description](#Description)
+<br>
+[Installation](#Installation)
+<br>
+[Usage](#Usage)
+<br>
+---------------
 
 **<u>Links:</u>**
 
