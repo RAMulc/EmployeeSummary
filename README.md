@@ -5,11 +5,11 @@ Template Engine - Employee Summary
 
 **<u>Links:</u>**
 
-Demo Video: [](https://github.com/RAMulc/EmployeeSummary/blob/main/demo/DemoVideo.webm)
+[Demo Video:](https://github.com/RAMulc/EmployeeSummary/blob/main/demo/DemoVideo.webm)
 
-Demo Team.html: [](https://github.com/RAMulc/EmployeeSummary/blob/main/demo/team.html)
+[Demo Team.html:](https://github.com/RAMulc/EmployeeSummary/blob/main/demo/team.html)
 
-Repository: [](https://github.com/RAMulc/EmployeeSummary)
+[Repository:](https://github.com/RAMulc/EmployeeSummary)
 
 
 
@@ -25,7 +25,7 @@ The application uses [Inquirer npm package](https://github.com/SBoudrias/Inquire
 
 Below is an example of the output html file. 
 
-![](E:\UWA\Homework\UWA_HW10_EmployeeSummary\demo\Screenshot.png)
+![](https://github.com/RAMulc/EmployeeSummary/blob/main/demo/Screenshot.png)
 
 
 
